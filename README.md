@@ -24,3 +24,12 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Sample Output
+
+```
+Enter your symptoms: fever, cough
+
+AI Suggestion:
+Based on your symptoms, this may indicate a viral infection. Please consult a healthcare professional for accurate diagnosis.
+```
