@@ -3,6 +3,8 @@
 ## Overview
 This project uses a Large Language Model to provide medical suggestions based on user symptoms.
 
+This system demonstrates how LLMs can be applied in healthcare to assist with preliminary symptom analysis and decision support.
+
 ## Features
 - Symptom-based query system
 - AI-generated medical responses
