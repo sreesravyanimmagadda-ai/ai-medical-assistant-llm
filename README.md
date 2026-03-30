@@ -15,5 +15,12 @@ This project uses a Large Language Model to provide medical suggestions based on
 
 ## How to Run
 
+1. Install dependencies:
+```
 pip install -r requirements.txt
+```
+
+2. Run the application:
+```
 python app.py
+```
